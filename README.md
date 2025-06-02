@@ -31,6 +31,19 @@ Crafting data stories**
 
 ***https://www.linkedin.com/in/shahista24**
 
+
+### 🏆 Achievements
+
+- ✅ Completed 3 beginner-level data analysis projects
+- 📜 Certified in SQL & Python 
+- 🧠 Self-learned Power BI and built dashboards
+
+### 🧰 Tools I Use
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHSHAHI)
@@ -51,5 +64,8 @@ Crafting data stories**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D6CA3?style=for-the-badge&logoColor=white)
 ---
+
+
+
 
 
