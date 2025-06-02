@@ -43,7 +43,11 @@ Crafting data stories**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 👩‍💻 Professional Coding Vibes
 
+![Code Editor](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/code-editor.gif)
+
+![Terminal Coding](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/terminal-coding.gif)
 ### 🌐 Connect with Me!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHSHAHI)
