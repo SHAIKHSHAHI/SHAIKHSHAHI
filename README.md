@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋 I'm Shahista—
+**A curious mind blending numbers, patterns, and stories ✨** 
 
-<!--
-**SHAIKHSHAHI/SHAIKHSHAHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-**🎓 MCom Graduate | Aspiring Data Analyst** 
+***📍 Pune, India*** 
 
-Here are some ideas to get you started:
+**🧠 Tools I speak fluently:** 
+-***SQL 
+-Python 
+-Power BI 
+-Excel 
+-Pandas 
+-Matplotlib  
+-Seaborn***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📊 I love transforming chaos into clarity through data.  
+Whether it's cleaning messy datasets or visualizing trends,  
+I'm on a journey to make data not just useful — but beautiful.**  
+
+**🌱 Currently:  
+Crafting data stories**
+
+**📨 Reach me at:**
+ ***shaikhshahi326@gmail.com***
+**🔗 LinkedIn:** 
+
+***https://www.linkedin.com/in/shahista24***
+
+
