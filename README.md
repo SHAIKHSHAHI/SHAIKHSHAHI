@@ -44,9 +44,36 @@ Crafting data stories**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### 👩‍💻 Coding Vibes
+### 👩‍💻 Coding Vibe
+# Hi there, I'm Simina 👋
 
-![Clean Code Editor](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/main/assets/coding.gif)
+## 👩‍💻 Professional Coding Vibes
+
+![Code Editor](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/code-editor.gif)  
+![Terminal Coding](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/terminal-coding.gif)
+
+---
+
+## 🔧 Skills
+
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-0A0A0A?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
+[![Seaborn](https://img.shields.io/badge/-Seaborn-1B2A47?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+
+---
+
+## 🚀 Projects
+
+### Food Supply Chain Analysis  
+- Built a detailed Power BI dashboard to track supply chain efficiency.  
+- Used SQL and Python for data cleaning and visualization.
+
+---
+
+## 📊 GitHub Stats
+
+![Simina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHAIKHSHAHI&show_icons=true&theme=radical)
+
+---
 
 
 
