@@ -46,8 +46,7 @@ Crafting data stories**
 
 ### 👩‍💻 Coding Vibes
 
-![Coding Animation](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/your-gif-name.gif)
-
+![Coding Animation](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 ### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHSHAHI)
