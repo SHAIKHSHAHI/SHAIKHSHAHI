@@ -45,9 +45,7 @@ Crafting data stories**
 
 
 ### 👩‍💻 Coding Vibes
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Coding Running](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-![Terminal Coding](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Clean Code Editor](https://user-images.githubusercontent.com/1963436/87263107-87f19880-c4aa-11ea-90ed-437bd986d7ea.gif)
 ### 🌐 Connect with Me!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHSHAHI)
