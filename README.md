@@ -9,7 +9,7 @@
 **MCom Graduate | Aspiring Data Analyst** 
 **📍 Pune, India**
 
-**🧠 Tools I speak fluently:** 
+# 🧠 Tools I speak fluently:
 -***SQL 
 -Python 
 -Power BI 
