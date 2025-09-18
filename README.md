@@ -18,9 +18,9 @@
 - Matplotlib  
 - Seaborn
 
-**📊 I love transforming chaos into clarity through data.  
-Whether it's cleaning messy datasets or visualizing trends,  
-I'm on a journey to make data not just useful — but beautiful.**  
+**I am an aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, Excel, and Statistics, driven by a passion for transforming raw data into actionable insights.
+My academic background in Business Administration (M.Com) equips me with both analytical and business perspectives, allowing me to understand data not just technically, but also strategically.
+I specialize in data cleaning, exploratory data analysis, regression models, and visualization techniques that support data-driven decision-making.**  
 
 **🌱 Currently:  
 Crafting data stories**
