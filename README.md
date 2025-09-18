@@ -24,16 +24,16 @@ I specialize in data cleaning, exploratory data analysis, regression models, and
 
 
 
-# *** 🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community 
+# 🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community 
 
 **🌱 Currently:  
 Crafting data stories**
 
-**📨 Reach me at:**
- ***shaikhshahi326@gmail.com***
-**🔗 LinkedIn:** 
+## 📨 Reach me at:
 
-***https://www.linkedin.com/in/shahista24**
+ ***shaikhshahi326@gmail.com***
+ 
+**🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
 
 
 ### 🏆 Achievements
