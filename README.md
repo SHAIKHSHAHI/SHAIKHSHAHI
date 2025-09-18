@@ -36,27 +36,24 @@ Crafting data stories**
 **🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
 
 
-### 🏆 Achievements
+## 🏆 Achievements
 
-- ✅ Completed 3 beginner-level data analysis projects
+- ✅ Completed more than 10   data analysis projects
 - 📜 Certified in SQL & Python 
 - 🧠 Self-learned Power BI and built dashboards
 
-### 🧰 Tools I Use
+## 🧰 Tools I Use
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Code Editor](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/code-editor.gif)
 
 
-### 🌐 Connect with Me!
+## 🌐 Connect with Me!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAIKHSHAHI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahista24)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaikhshahi326@gmail.com)
 
 ---
 
