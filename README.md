@@ -22,6 +22,11 @@
 My academic background in Business Administration (M.Com) equips me with both analytical and business perspectives, allowing me to understand data not just technically, but also strategically.
 I specialize in data cleaning, exploratory data analysis, regression models, and visualization techniques that support data-driven decision-making.**  
 
+--- I believe in the philosophy of “Data tells a story—my role is to make it understandable and impactful.”
+Beyond numbers, I value collaboration, attention to detail, and creativity in every project I work on.
+My repositories are a reflection of both my learning process and my commitment to mastering data analytics.
+🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community ---
+
 **🌱 Currently:  
 Crafting data stories**
 
