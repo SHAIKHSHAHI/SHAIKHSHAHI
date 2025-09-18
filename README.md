@@ -11,12 +11,12 @@
 
 # 🧠 Tools I speak fluently:
 -***SQL 
--Python 
--Power BI 
--Excel 
--Pandas 
--Matplotlib  
--Seaborn***
+- Python 
+- Power BI 
+- Excel 
+- Pandas 
+- Matplotlib  
+- Seaborn***
 
 **📊 I love transforming chaos into clarity through data.  
 Whether it's cleaning messy datasets or visualizing trends,  
