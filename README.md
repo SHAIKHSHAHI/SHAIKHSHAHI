@@ -31,7 +31,7 @@ Crafting data stories**
 
 ## 📨 Reach me at:
 
- ***shaikhshahi326@gmail.com***
+ **🔗 Gmail** ***shaikhshahi326@gmail.com***
  
 **🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
 
