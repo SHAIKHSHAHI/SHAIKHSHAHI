@@ -6,8 +6,8 @@
 # Hey there 👋 I'm Shahista—
 **A curious mind blending numbers, patterns, and stories ✨** 
 
--**MCom Graduate | Aspiring Data Analyst** 
-***📍 Pune, India*** 
+**MCom Graduate | Aspiring Data Analyst** 
+**📍 Pune, India**
 
 **🧠 Tools I speak fluently:** 
 -***SQL 
