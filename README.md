@@ -1,4 +1,4 @@
-<img src="hands-typing-on-laptop-programming-600nw-2480023489.jpg" alt="Simina Banner" width="100%" />
+<img src="hands-typing-on-laptop-programming-600nw-2480023489.jpg" alt="Simina Banner" width="90%" />
 
 
 
