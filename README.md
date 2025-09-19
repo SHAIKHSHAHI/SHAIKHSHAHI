@@ -90,7 +90,7 @@ Crafting data stories**
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insightst">
+    <a href="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insights">
       <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Coffee-Sales-Project/main/preview.png" width="150" />
       <br>Coffee Sales Analysis
     </a>
