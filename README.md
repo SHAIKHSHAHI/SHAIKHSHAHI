@@ -1,4 +1,8 @@
 ![Banner Text](https://raw.githubusercontent.com/USERNAME/REPO/main/https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/tree/main)
+# Hi there, I'm Simina 👋
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
 
 
 
