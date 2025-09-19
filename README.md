@@ -3,6 +3,8 @@
 
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
 ![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your-profile/)
+
 
 
 
