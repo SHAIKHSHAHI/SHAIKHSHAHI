@@ -84,7 +84,6 @@ Crafting data stories**
 <table>
 <tr>
   <td align="center">
-   <title>Customer-Engagement-Offer-Effectiveness-Analysis
     <a href="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis">
       <img src="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/blob/1837aa98f9302dedb33e36bc3c97f77d966b4e77/Untitled%20design.png" width="500" />
       <br>Customer-Engagement-Offer-Effectiveness-Analysis
@@ -101,7 +100,7 @@ Crafting data stories**
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report">
       <img src="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report/blob/4509dcc120a7a82c0238352d1eef42015172dcb2/Employee%20powerbi%204.png" width="500" />
-      <br>Employee-Performance-power-bi-Repor
+      <br>Employee-Performance-power-bi-Report
     </a>
   </td>
 </tr>
