@@ -85,7 +85,7 @@ Crafting data stories**
 <tr>
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis">
-      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Pizza-Sales-Analysis/main/preview.png" width="150" />
+      <img src="Coffee-project-interior.jpg" width="150" />
       <br>Pizza Sales Analysis
     </a>
   </td>
