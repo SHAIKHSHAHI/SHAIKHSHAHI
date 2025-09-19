@@ -57,7 +57,7 @@ Crafting data stories**
 # Hi there, I'm Shahista 👋
 
 <a href="https://github.com/SHAIKHSHAHI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shahista24">
