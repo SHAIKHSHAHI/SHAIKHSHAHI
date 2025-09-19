@@ -77,6 +77,35 @@ Crafting data stories**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D6CA3?style=for-the-badge&logoColor=white)
+
+
+# My Projects
+
+<table>
+<tr>
+  <td align="center">
+    <a href="https://github.com/SHAIKHSHAHI/Pizza-Sales-Analysis">
+      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Pizza-Sales-Analysis/main/preview.png" width="150" />
+      <br>Pizza Sales Analysis
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/SHAIKHSHAHI/Coffee-Sales-Project">
+      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Coffee-Sales-Project/main/preview.png" width="150" />
+      <br>Coffee Sales Analysis
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/SHAIKHSHAHI/Food-Supply-Chain">
+      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Food-Supply-Chain/main/preview.png" width="150" />
+      <br>Food Supply Chain
+    </a>
+  </td>
+</tr>
+</table>
+
 ---
 
 
