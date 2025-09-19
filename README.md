@@ -99,7 +99,7 @@ Crafting data stories**
 <tr>
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report">
-      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Food-Supply-Chain/main/preview.png" width="150" />
+      <img src="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report/blob/4509dcc120a7a82c0238352d1eef42015172dcb2/Employee%20powerbi%204.png" width="500" />
       <br>Food Supply Chain
     </a>
   </td>
