@@ -1,9 +1,15 @@
 ![Banner Text](https://raw.githubusercontent.com/USERNAME/REPO/main/https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/tree/main)
 # Hi there, I'm Simina 👋
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your-profile/)
+
+
+# Hi there, I'm Simina 👋
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/your-profile/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
 
 
 
