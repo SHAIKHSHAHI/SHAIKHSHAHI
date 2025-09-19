@@ -84,7 +84,7 @@ Crafting data stories**
 <table>
 <tr>
   <td align="center">
-   <title>>Customer-Engagement-Offer-Effectiveness-Analysis
+   <title>Customer-Engagement-Offer-Effectiveness-Analysis
     <a href="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis">
       <img src="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/blob/1837aa98f9302dedb33e36bc3c97f77d966b4e77/Untitled%20design.png" width="500" />
       <br>Customer-Engagement-Offer-Effectiveness-Analysis
@@ -93,7 +93,7 @@ Crafting data stories**
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insights">
       <img src="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insights/blob/36d6a9721fbbe8c207a8bc5e78afef02048f32c0/caption.jpg" width="500" />
-      <br>Coffee Sales Analysis
+      <br>Bookstore-Advance-Insights
     </a>
   </td>
 </tr>
@@ -101,7 +101,7 @@ Crafting data stories**
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report">
       <img src="https://github.com/SHAIKHSHAHI/Employee-Performance-power-bi-Report/blob/4509dcc120a7a82c0238352d1eef42015172dcb2/Employee%20powerbi%204.png" width="500" />
-      <br>Food Supply Chain
+      <br>Employee-Performance-power-bi-Repor
     </a>
   </td>
 </tr>
