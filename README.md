@@ -31,13 +31,13 @@ Crafting data stories**
 **🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
 
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 - ✅ Completed more than 10   data analysis projects
 - 📜 Certified in SQL & Python 
 - 🧠 Self-learned Power BI and built dashboards
 
-## 🧰 Tools I Use
+# 🧰 Tools I Use
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
