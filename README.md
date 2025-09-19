@@ -85,13 +85,13 @@ Crafting data stories**
 <tr>
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis">
-      <img src="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/blob/d87a96b303f80cb02835b37480437941cc3e7185/Coffee-project-interior.jpg" width="300" />
+      <img src="https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/blob/d87a96b303f80cb02835b37480437941cc3e7185/Coffee-project-interior.jpg" width="500" />
       <br>Pizza Sales Analysis
     </a>
   </td>
   <td align="center">
     <a href="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insights">
-      <img src="https://raw.githubusercontent.com/SHAIKHSHAHI/Coffee-Sales-Project/main/preview.png" width="150" />
+      <img src="https://github.com/SHAIKHSHAHI/Bookstore-Advance-Insights/blob/36d6a9721fbbe8c207a8bc5e78afef02048f32c0/caption.jpg" width="500" />
       <br>Coffee Sales Analysis
     </a>
   </td>
