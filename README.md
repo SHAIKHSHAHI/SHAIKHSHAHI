@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Shahista—
 ## A curious mind blending numbers, patterns, and stories ✨
 ## MCom Graduate | Aspiring Data Analyst** 
-## 📍 Pune, India**
+## 📍 Pune, India
 **I am an aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, Excel, and Statistics, driven by a passion for transforming raw data into actionable insights.
 My academic background in Business Administration (M.Com) equips me with both analytical and business perspectives, allowing me to understand data not just technically, but also strategically.
 I specialize in data cleaning, exploratory data analysis, regression models, and visualization techniques that support data-driven decision-making.**  
