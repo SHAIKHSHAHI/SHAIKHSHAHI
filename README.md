@@ -1,4 +1,3 @@
-
 # Hey there 👋 I'm Shahista—
 ## A curious mind blending numbers, patterns, and stories ✨
 ## MCom Graduate | Aspiring Data Analyst** 
@@ -45,19 +44,19 @@ Crafting data stories**
 ![Code Editor](https://github.com/SHAIKHSHAHI/SHAIKHSHAHI/raw/main/assets/code-editor.gif)
 
 
-## 🌐 Connect with Me!
 
 
 
 # Hi there, I'm Shahista 👋
 
+# 🌐 Connect with Me!
+
+
 <a href="https://github.com/SHAIKHSHAHI">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
 </a>
-
 <a href="https://www.linkedin.com/in/shahista24">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80"/>
-</a>
 </a>
 <a href="mailto:shaikhshahi326@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="80" height="80"/>
