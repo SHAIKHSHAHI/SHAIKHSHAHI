@@ -1,6 +1,3 @@
-
-
-
 # Hey there 👋 I'm Shahista—
 ## A curious mind blending numbers, patterns, and stories ✨
 ## MCom Graduate | Aspiring Data Analyst** 
@@ -10,18 +7,6 @@ My academic background in Business Administration (M.Com) equips me with both an
 I specialize in data cleaning, exploratory data analysis, regression models, and visualization techniques that support data-driven decision-making.**  
 ## I believe in the philosophy of “Data tells a story—my role is to make it understandable and impactful. Beyond numbers, I value collaboration, attention to detail, and creativity in every project I work on.
 
-# 🌐 Connect with Me!
-
-
-<a href="https://github.com/SHAIKHSHAHI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
-</a>
-<a href="https://www.linkedin.com/in/shahista24">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80"/>
-</a>
-<a href="mailto:shaikhshahi326@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="80" height="80"/>
-</a>
 
 
 # 🧠 Tools I speak fluently:
