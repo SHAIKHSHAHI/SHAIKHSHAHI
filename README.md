@@ -1,3 +1,6 @@
+![Banner](https://raw.githubusercontent.com/SHAIKHSHAHI/RepoName/main/images/banner.png)
+
+
 # Hey there 👋 I'm Shahista—
 ## A curious mind blending numbers, patterns, and stories ✨
 ## MCom Graduate | Aspiring Data Analyst** 
