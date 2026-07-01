@@ -4,9 +4,8 @@
 ### Data Analytics | SQL | Python | Power BI | Excel | Statistics
 📌 ***Exploring data, building dashboards, and creating business insights***
 # 🧠 Tools I speak fluently:
-- SQL | Python | Matplotlib |Power BI |Excel |Pandas 
-   
-## 🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community 
+## SQL | Python | Matplotlib |Power BI |Excel |Pandas 
+***🚀Always open to feedback, new opportunities, and knowledge-sharing in the data community***
 
 ## 📨 Reach me at:
 
