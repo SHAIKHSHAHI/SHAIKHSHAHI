@@ -1,14 +1,8 @@
 # Hey there 👋 I'm Shahista—
-## A curious mind blending numbers, patterns, and stories ✨
 ## MCom Graduate | Aspiring Data Analyst** 
 ## 📍 Pune, India
-**I am an aspiring Data Analyst with a strong foundation in SQL, Python, Power BI, Excel, and Statistics, driven by a passion for transforming raw data into actionable insights.
-My academic background in Business Administration (M.Com) equips me with both analytical and business perspectives, allowing me to understand data not just technically, but also strategically.
-I specialize in data cleaning, exploratory data analysis, regression models, and visualization techniques that support data-driven decision-making.**  
-## I believe in the philosophy of “Data tells a story—my role is to make it understandable and impactful. Beyond numbers, I value collaboration, attention to detail, and creativity in every project I work on.
-
-
-
+## 📊 Data Analytics | SQL | Python | Power BI | Excel | Statistics
+📌 *** Exploring data, building dashboards, and creating business insights***
 # 🧠 Tools I speak fluently:
 - SQL 
 - Python 
@@ -16,21 +10,12 @@ I specialize in data cleaning, exploratory data analysis, regression models, and
 - Excel 
 - Pandas 
 - Matplotlib  
-- Seaborn
-
-
-
-
-# 🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community 
-
-**🌱 Currently:  
-Crafting data stories**
+## 🚀 Always open to feedback, new opportunities, and knowledge-sharing in the data community 
 
 ## 📨 Reach me at:
 
  **🔗 Gmail** ***shaikhshahi326@gmail.com***
- 
-**🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
+ **🔗 LinkedIn:** ***https://www.linkedin.com/in/shahista24**
 
 
 # 🏆 Achievements
