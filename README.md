@@ -2,7 +2,7 @@
 ## MCom Graduate | Aspiring Data Analyst** 
 ## 📍 Pune, India
 ## 📊 Data Analytics | SQL | Python | Power BI | Excel | Statistics
-📌 *** Exploring data, building dashboards, and creating business insights***
+📌 ***Exploring data, building dashboards, and creating business insights***
 # 🧠 Tools I speak fluently:
 - SQL 
 - Python 
