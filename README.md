@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Shahista—
-## MCom Graduate | Aspiring Data Analyst** 
 ## 📍 Pune, India
-## 📊 Data Analytics | SQL | Python | Power BI | Excel | Statistics
+## MCom Graduate | Aspiring Data Analyst
+### Data Analytics | SQL | Python | Power BI | Excel | Statistics
 📌 ***Exploring data, building dashboards, and creating business insights***
 # 🧠 Tools I speak fluently:
 - SQL 
